@@ -5,7 +5,7 @@ Complete clock app for the terminal, including features such as:
 -calendar<br>
 -chronometer<br>
 -timer<br>
-<br><br>
+<br>
 For help, type the programs name in the terminal.
 <br><br>
 How to use:<br>
