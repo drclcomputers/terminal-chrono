@@ -1,6 +1,6 @@
 # terminal-chrono
 
-Complete clock app for the terminal, including features such as:
+Complete clock app for the terminal, including features such as:<br>
 -clock<br>
 -calendar<br>
 -chronometer<br>
